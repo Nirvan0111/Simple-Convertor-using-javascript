@@ -1,0 +1,15 @@
+.card-block{
+    color: white
+}
+.card:nth-child(odd){
+    background:linear-gradient(to right , #b721ff, #21d4fd);
+}
+body{
+    background:linear-gradient(to bottom right, #5a5bf3, #91e7d9);
+}
+.container h1{
+    color:#65f4cd;
+    font-weight: bolder;
+    border: 5px solid #60a2f5;
+    margin: 20px auto;
+}
